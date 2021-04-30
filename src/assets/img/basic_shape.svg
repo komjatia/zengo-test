@@ -1,0 +1,10 @@
+<svg id="basic_shape" data-name="basic shape" xmlns="http://www.w3.org/2000/svg" width="966" height="390" viewBox="0 0 322 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b1c9ff;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle" class="cls-1" width="322" height="130"/>
+</svg>

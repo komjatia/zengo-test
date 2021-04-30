@@ -1,8 +1,17 @@
+//import components
+import GlobalStyle from "./components/GlobalStyle";
+import Header from "./components/Header";
+import MainPage from "./pages/MainPage";
+
+
+
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+    <>
+      <GlobalStyle />
+     <Header />
+     <MainPage />
+    </>
   );
 }
 
